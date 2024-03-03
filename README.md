@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Siye
+### 👋 Hi, I’m Siye
 
 <!---
 SiyeW/SiyeW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
